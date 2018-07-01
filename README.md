@@ -5,7 +5,7 @@
 - Path Browse Support ~ Choose any folder you want to download the video to.<br>
 
 **How To Use:**
-1. First download the Source Code .zip file and extract it.<br>
+1. First go to the Releases tab and download the Source Code .zip file and extract it.<br>
 2. Then just run the YTDownloader.exe file.<br>
 
 Here you go!<br>
