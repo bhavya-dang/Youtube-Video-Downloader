@@ -12,3 +12,8 @@ Here you go!<br>
 
 **Issues:**
 If there are any bugs, please **open an issue** in the Issues tab or add `Sythe#2954` on Discord.
+
+## License
+
+&copy; Bhavya Dang, 2018.
+All Rights Reserved.
