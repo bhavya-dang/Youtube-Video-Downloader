@@ -11,4 +11,4 @@
 Here you go!<br>
 
 **Issues:**
-If there are any bugs, please **open an issue** in the Issues tab or contact me on my [Discord](https://discord.gg/ka89e7X).<br>
+If there are any bugs, please **open an issue** in the Issues tab or add `Sythe#2954` on Discord.
